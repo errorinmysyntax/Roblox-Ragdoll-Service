@@ -1,0 +1,10 @@
+{
+	"name": "SimpleRagdollService",
+	"tree": {
+		"$className": "ModuleScript",
+		"$properties": {
+			"Name": "SimpleRagdollService"
+		},
+		"$path": "src/SimpleRagdollService.lua"
+	}
+}
